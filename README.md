@@ -1,1 +1,1 @@
-# Star Wars info app
+# Star Wars info React app
